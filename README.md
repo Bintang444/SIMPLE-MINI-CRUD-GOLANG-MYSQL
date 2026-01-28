@@ -69,7 +69,7 @@ mini-crud/
 
 ### Nama Database
 ```sql
-ujikom_go
+mini_crud
 ```
 
 ### Tabel `anggota`
